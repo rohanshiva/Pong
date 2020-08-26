@@ -2,7 +2,7 @@ import arcade
 import time
 import random
 
-SCREEN_WIDTH = 650
+SCREEN_WIDTH = 660
 SCREEN_HEIGHT = 480
 SCREEN_TITLE = "PONG"
 MOVEMENT_SPEED = 3
